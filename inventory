@@ -1,0 +1,2 @@
+master_server ansible_host=192.168.142.133 ansible_user=pt ansible_password=Q1w2e3r4t5y6u&
+repl_server ansible_host=192.168.142.134 ansible_user=pt ansible_password=Q1w2e3r4t5y6u&
